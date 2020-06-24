@@ -1,0 +1,5 @@
+r- sales
+d - sales
+p - receptionist
+o - accountant
+m - developer
